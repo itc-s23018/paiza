@@ -1,14 +1,14 @@
 # paiza
 
-##コードガールコレクション
+## コードガールコレクション
 
-![Codegirl](CodeGirl.png)
-
-
-
-##恋するハッカソン
+![Codegirl](image/CodeGirl.png)
 
 
-[ショートヘア](short.py)
 
-[ロングヘア](./long.py)
+## 恋するハッカソン
+
+
+[ショートヘア](KoiHaka/short.py)  
+
+[ロングヘア](KoiHaka/long.py)  
