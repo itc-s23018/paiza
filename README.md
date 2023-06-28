@@ -15,7 +15,6 @@
 
 [つり目](KoiHaka/turime.py)
 
-[たれ目](KoiHaka/tareme.py)
 
 [メガネ](KoiHaka/megane.py)
 
