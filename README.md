@@ -2,4 +2,4 @@
 
 ##コードガールコレクション
 
-![Codegirl](./Codegirl.png)
+![Codegirl](./image/Codegirl.png)
