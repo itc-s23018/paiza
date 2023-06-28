@@ -29,6 +29,6 @@
 [カチューシャ](KoiHaka/katyua.py)
 
 
-##プログラミングで彼女を作る  
+## プログラミングで彼女を作る  
 
 [つり目](Kanojyo/turime.py)
