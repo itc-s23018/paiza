@@ -22,3 +22,9 @@
 [キュート衣装](KoiHaka/cute.py)
 
 [セクシー衣装](KoiHaka/sexy.py)
+
+[マイク](KoiHaka/mike.py)
+
+[水着](KoiHaka/mizuki.py)
+
+[カチューシャ](KoiHaka/katyua.py)
