@@ -2,7 +2,8 @@
 
 ##コードガールコレクション
 
-![Codegirl](Codegirl.png)
+![Codegirl](CodeGirl.png)
+
 
 
 ##恋するハッカソン
