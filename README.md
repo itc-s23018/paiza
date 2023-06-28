@@ -13,6 +13,10 @@
 
 [ロングヘア](KoiHaka/long.py) 
 
+
+[ポニーテール](KoiHaka/pony.py)
+
+
 [つり目](KoiHaka/turime.py)
 
 
