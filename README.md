@@ -36,3 +36,7 @@
 ## プログラミングで彼女を作る  
 
 [つり目](Kanojyo/turime.py)
+
+[ショートヘア](Kanojyo/short.py)
+
+[ロングヘア](Kanojyo/long.py)
