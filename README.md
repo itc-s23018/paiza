@@ -27,3 +27,8 @@
 [水着](KoiHaka/mizuki.py)
 
 [カチューシャ](KoiHaka/katyua.py)
+
+
+##プログラミングで彼女を作る  
+
+[つり目](Kanojyo/turime.py)
