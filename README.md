@@ -2,7 +2,7 @@
 
 ##コードガールコレクション
 
-![Codegirl](image/Codegirl.png/)
+![Codegirl](./Codegirl.png)
 
 
 ##恋するハッカソン
@@ -10,4 +10,4 @@
 
 [ショートヘア](short.py)
 
-[ロングヘア](./恋するハッカソン/long.py)
+[ロングヘア](./long.py)
