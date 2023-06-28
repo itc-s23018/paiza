@@ -15,10 +15,10 @@
 
 [つり目](KoiHaka/turime.py)
 
-[たれ目](Koihaka/tareme.py)
+[たれ目](KoiHaka/tareme.py)
 
-[メガネ](Koihaka/megane.py)
+[メガネ](KoiHaka/megane.py)
 
-[キュート衣装](Koihaka/cute.py)
+[キュート衣装](KoiHaka/cute.py)
 
 [セクシー衣装](KoiHaka/sexy.py)
