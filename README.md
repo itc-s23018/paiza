@@ -47,4 +47,4 @@
 
 [セーラー服](Kanojyo/sailor.py)
 
-[カーディガン](Kanojyo/cardian.py)
+[カーディガン](Kanojyo/cardigan.py)
