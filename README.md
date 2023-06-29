@@ -16,6 +16,7 @@
 
 [ポニーテール](KoiHaka/pony.py)
 
+[ツインテール](KoiHaka/twin.py)
 
 [つり目](KoiHaka/turime.py)
 
