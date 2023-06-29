@@ -40,3 +40,11 @@
 [ショートヘア](Kanojyo/short.py)
 
 [ロングヘア](Kanojyo/long.py)
+
+[ポニーテール](Kanojyo/pony.py)
+
+[ツインテール](Kanojyo/twin.py)
+
+[セーラー服](Kanojyo/sailor.py)
+
+[カーディガン](Kanojyo/cardian.py)
