@@ -37,6 +37,8 @@
 
 [つり目](Kanojyo/turime.py)
 
+[猫耳](Kanojyo/nekomimi.py)
+
 [ショートヘア](Kanojyo/short.py)
 
 [ロングヘア](Kanojyo/long.py)
